@@ -1,2 +1,2 @@
 # model-hub-deployment
-OCI Resources Manager stack's Terraform config for the deployment of Hackolade Model Hub
+OCI Resource Manager stack's Terraform config for the deployment of Hackolade Model Hub
